@@ -37,8 +37,8 @@ The project uses a simulated sales dataset containing **1,500 transactions** fro
 | Profit Margin | 30.20% |
 | Order Completion Rate | 88.87% |
 
-#Interactive Dashboard:<a href="https://github.com/rajveerchouhan724-gi/Sales-Data-Analytics-Dashboard/blob/main/Sales_Performance_Dashboard.png">Dashboard</a>
-: <img width="1920" height="1080" alt="Screenshot 2026-10-02 224315" src="https://github.com/user-attachments/assets/147eed21-9e5c-4a11-8481-bffc596f14fd" />
+#Interactive Dashboard : <a href="https://github.com/rajveerchouhan724-gi/Sales-Data-Analytics-Dashboard/blob/main/Sales_Performance_Dashboard.png">Dashboard</a>
+ <img width="1920" height="1080" alt="Screenshot 2026-10-02 224315" src="https://github.com/user-attachments/assets/147eed21-9e5c-4a11-8481-bffc596f14fd" />
 
 ## 🔍 Dashboard Features
 
