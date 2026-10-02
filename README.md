@@ -37,6 +37,7 @@ The project uses a simulated sales dataset containing **1,500 transactions** fro
 | Profit Margin | 30.20% |
 | Order Completion Rate | 88.87% |
 
+**Interactive Dashboard:
 ## 🔍 Dashboard Features
 
 - KPI Cards
