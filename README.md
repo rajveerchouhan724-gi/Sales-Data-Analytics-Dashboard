@@ -70,4 +70,4 @@ The dataset is simulated and covers only six months. It does not contain leads o
 
 ## 📌 Conclusion
 
-This project demonstrates an end-to-end analytics workflow from **data validation and SQL analysis to Power BI visualization and business insights**.
+This project demonstrates an end-to-end data analytics workflow by transforming raw sales data into meaningful business insights through data validation, SQL analysis, and interactive Power BI visualization. The dashboard provides a clear view of sales, profitability, regional and product performance, helping stakeholders monitor key KPIs, identify trends, and support data-driven decision-making.
