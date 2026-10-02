@@ -18,7 +18,7 @@ The project follows an end-to-end data analytics workflow using **Excel, SQL, an
 
 The project uses a simulated sales dataset containing **1,500 transactions** from **January–June 2026**.
 
-**Dataset:** [Download / View Dataset](PASTE_YOUR_DATASET_LINK_HERE)
+**Dataset:** <a href="https://github.com/rajveerchouhan724-gi/Sales-Data-Analytics-Dashboard/blob/main/Sales_analysis_Dataset.xlsx">Dataset</a>
 
 ## 🛠️ Tools Used
 
