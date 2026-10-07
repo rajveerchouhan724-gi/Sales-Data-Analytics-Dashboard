@@ -38,7 +38,7 @@ The SQL file includes:
 - Order status and completion rate
 - Product performance analysis
 
-📄 **SQL File:** [View Sales_Analysis.sql](./SQL/Sales_Analysis.sql)
+📄 **SQL File:** <a href="https://github.com/rajveerchouhan724-gi/Sales-Data-Analytics-Dashboard/blob/main/Sales%20SQL%20file.sql">SQL</a>
 
 ## 📈 Key Results
 
