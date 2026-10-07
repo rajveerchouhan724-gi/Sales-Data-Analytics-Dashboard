@@ -62,9 +62,11 @@ The SQL file includes:
 - Top Product Analysis
 - Order Status Analysis
 - Interactive Filters
+
+
 ## 📑 Project Presentation
 
-[View Project Presentation](./Sales_Performance_Dashboard_Presentation.pptx)
+ <a href="https://github.com/rajveerchouhan724-gi/Sales-Data-Analytics-Dashboard/blob/main/Sales_Performance_Dashboard_Presentation.pptx">Dashboard</a>
 
 ## 💡 Key Insights
 
