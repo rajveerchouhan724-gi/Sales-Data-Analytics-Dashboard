@@ -62,6 +62,9 @@ The SQL file includes:
 - Top Product Analysis
 - Order Status Analysis
 - Interactive Filters
+## 📑 Project Presentation
+
+[View Project Presentation](./Sales_Performance_Dashboard_Presentation.pptx)
 
 ## 💡 Key Insights
 
