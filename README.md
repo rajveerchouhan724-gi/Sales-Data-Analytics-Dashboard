@@ -26,6 +26,20 @@ The project uses a simulated sales dataset containing **1,500 transactions** fro
 - MySQL – Data analysis
 - Power BI – Dashboard & visualization
 
+## 🗄️ SQL Analysis
+
+MySQL was used to analyze the sales dataset and calculate key business metrics and performance insights.
+
+The SQL file includes:
+- Data overview and record checks
+- Sales, orders, AOV, profit and profit margin
+- Regional and category performance
+- Monthly sales analysis
+- Order status and completion rate
+- Product performance analysis
+
+📄 **SQL File:** [View Sales_Analysis.sql](./SQL/Sales_Analysis.sql)
+
 ## 📈 Key Results
 
 | KPI | Result |
